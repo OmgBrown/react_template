@@ -1,0 +1,4 @@
+.ui.form .inline.fields .field > label {
+    width: 150px;
+    text-align: right;
+}
